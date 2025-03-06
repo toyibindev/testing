@@ -1,0 +1,1 @@
+kelas dan mapel sesuai dengan akses gtk 
