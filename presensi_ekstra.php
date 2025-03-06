@@ -1,0 +1,1 @@
+ekstra sesuai dengan akses gtk 
